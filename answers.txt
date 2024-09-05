@@ -9,3 +9,7 @@ Answer: Medical field, predict which patients are more at risk given their habit
 Q3: What is the difference between merging and rebasing?
 
 Answer: Merging preserves the history of all the branches while rebasing combines it all into one linear branch.
+
+Q3: What skills do you hope to improve during this course?
+
+Answer: Understand how data science works and how I can apply it in my life.
